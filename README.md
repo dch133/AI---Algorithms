@@ -107,7 +107,8 @@ Total number of Steps:
 
 As Step Size increases, the # steps decreases since we approach the max faster with higher ‘jumps’.
 As Step Size increases. std lowers because it takes less steps to reach the goal overall and the average number of steps will be clustered around a smaller value (there is less of them)
-
+
+---------------------
 B. LOCAL BEAM SEARCH RESULTS: STEP SIZE 0.01 
 
 f1 = sin(x/2) + cos(2y); 				f2 = -|x-2| - |0.5y +1| +3
